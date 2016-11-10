@@ -1,0 +1,23 @@
+{
+  "name": "prnt",
+  "version": "0.0.1",
+  "description": "printing buddy",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amir-s/prnt.git"
+  },
+  "keywords": [
+    "print",
+    "log",
+    "console.log"
+  ],
+  "author": "Amir Saboury",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amir-s/prnt/issues"
+  },
+  "homepage": "https://github.com/amir-s/prnt#readme"
+}
