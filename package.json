@@ -1,10 +1,9 @@
 {
   "name": "prnt",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "printing buddy",
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/amir-s/prnt.git"

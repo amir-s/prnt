@@ -1,20 +1,20 @@
 # PRNT
 
-I found myself using this function a lot for printing stuff in javascript.
-
-It is like `console.log`, but it passes everything through `JSON.parse`.
+It's a `console.log`, but it passes all arguments through `JSON.stringify`.
 
 ## Install
+
 `npm install prnt --save`
 
 ## Usage
 
 ```js
-const prnt = require('prnt');
+const prnt = require("prnt");
 
-prnt("Test", 3.14)
-prnt({name: 'Amir', username: 'amir-s'});
+prnt("Test", 3.14);
+prnt({ name: "Amir", username: "amir-s" });
 ```
+
 ## License
 
-  MIT
+MIT
